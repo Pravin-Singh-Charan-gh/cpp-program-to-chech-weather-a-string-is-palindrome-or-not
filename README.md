@@ -1,0 +1,1 @@
+# cpp-program-to-chech-weather-a-string-is-palindrome-or-not
